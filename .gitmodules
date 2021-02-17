@@ -1,0 +1,8 @@
+[submodule "SimpleRTS"]
+	path = SimpleRTS
+	url = https://git.gigabyteproductions.net/srv/git/kmarek/cwru-SimpleRTS.git
+	branch = 6947e225c741c4f28664e601eb084fc7f449e78d
+[submodule "Sepia"]
+	path = Sepia
+	url = https://git.gigabyteproductions.net/srv/git/kmarek/cwru-Sepia.git
+	branch = 5e861343f01947d699ae4dbf6b4b430420958bc5
